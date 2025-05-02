@@ -23,7 +23,7 @@
   padding: var(--indents) var(--indents) 0;
 }
 
-.decorated-zone{
+.decorated-zone {
   position: relative;
   height: 100vh;
 }
@@ -106,7 +106,7 @@
   border: 1px solid var(--menu-frame);
 }
 
-.header__theme-menu-button:focus{
+.header__theme-menu-button:focus {
   outline: none;
 }
 
@@ -221,11 +221,11 @@
   padding: var(--indents) var(--indents) 0;
 }
 
-.footrer-headline{
+.footrer-headline {
   text-shadow: 2px 2px 0 var(--accent-color);
 }
 
-@media (width >= 768px){
+@media (width >= 768px) {
   :root {
     --indents: 20px;
     --section-indents: 80px;
@@ -251,7 +251,7 @@
     font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   }
   
-  .header-text{
+  .header-text {
     grid-column: 2;
     grid-row: 3;
     margin-top: 28px;
@@ -321,7 +321,7 @@
     flex-direction: row;
   }
 
-  .header-text{
+  .header-text {
     margin-top: 37px;
   }
 
