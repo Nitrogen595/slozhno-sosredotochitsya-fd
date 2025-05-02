@@ -2,3 +2,18 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+:root {
+  --accent-color: #FF0070;
+  --menu-color: #FF0070;
+  --menu-frame: rgb(225, 0, 112, 0.4);
+  --accent-text-color: #000028;
+  --text-color: #F1B2CE;
+  --link-shadow-color: #FF0070;
+  --main-headline: #DB00FF;
+  --background-image: url("../images/cover-image-dark.png");
+  --background-reserve: #000028;
+  --topic-color: #FF0070;
+  --indents: 10px;
+  --section-indents: 50px;
+  --gallerty-indents: 5px;
+}
