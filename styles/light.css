@@ -17,19 +17,6 @@
   --background-reserve: #000028;
 }
 
-.theme-light .page {
-  --accent-color: #FF8DCB;
-  --menu-color: #353430;
-  --menu-frame: rgb(53, 52, 48, 0.4);
-  --accent-text-color: #000028;
-  --text-color: #353430;
-  --link-shadow-color: #FF8DCB;
-  --topic-color: #353430;
-  --main-headline: #FFC2E6;
-  --background-image: url("../images/cover-image-light.png");
-  --background-reserve: #000028;
-}
-
 .theme-light .header-bg-decor {
   display: none;
 }

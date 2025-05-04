@@ -17,3 +17,11 @@
   --section-indents: 50px;
   --gallerty-indents: 5px;
 }
+
+@media (width >= 768px) {
+  :root {
+    --indents: 20px;
+    --section-indents: 80px;
+    --gallerty-indents: 20px;
+  }
+}
